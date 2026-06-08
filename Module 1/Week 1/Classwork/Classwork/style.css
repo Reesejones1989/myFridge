@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+  }
+
+p {
+    border: 2em;
+    background-color: aliceblue;
+}
+.p1{
+    background-color:green;
+}
+.p2{
+    font-size: 20pt;
+}
